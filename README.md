@@ -1,2 +1,3 @@
-# installing-tailwind-into-laravel
+# Installing Tailwind into Laravel
+
 Installing Tailwind into Laravel
