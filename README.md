@@ -37,9 +37,7 @@ Create the Tailwind config file:
 In the `resources/sass` folder, create a new file named `_tailwind.scss`
 Put this code inside the newly created file:
 
-    /* purgecss start ignore */
     @tailwind base;
-    /* purgecss end ignore */
     @tailwind components;
     @tailwind utilities;
 
